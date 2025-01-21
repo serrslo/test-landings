@@ -1,0 +1,8 @@
+wp-config.php
+wp-content/uploads/
+wp-content/plugins/
+
+# Системные файлы
+.htaccess
+.DS_Store
+*.log
